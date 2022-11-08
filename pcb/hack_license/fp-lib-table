@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "hack_license")(type "KiCad")(uri "${KIPRJMOD}/hack_license.pretty")(options "")(descr ""))
+)
