@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 31,
+    "active_layer": 0,
     "active_layer_preset": "All Layers",
     "auto_track_width": true,
     "hidden_nets": [],
@@ -80,7 +80,7 @@
           "pos_x": 0,
           "pos_y": 27,
           "size_x": 640,
-          "size_y": 685
+          "size_y": 597
         }
       },
       {
